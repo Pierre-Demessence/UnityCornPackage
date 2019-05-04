@@ -1,0 +1,12 @@
+{
+    "name": "com.corn.unitils",
+    "displayName": "Unity Utils",
+    "version": "0.0.1",
+    "unity": "2019.1",
+    "description": "Utils stuff for Unity.",
+    "keywords": [
+        "unity",
+        "utils"
+    ],
+    "category": "Unity"
+}
